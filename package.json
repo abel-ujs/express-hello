@@ -12,6 +12,13 @@
     "ejs": "~2.3.3",
     "express": "~4.13.1",
     "morgan": "~1.6.1",
-    "serve-favicon": "~2.3.0"
+    "serve-favicon": "~2.3.0",
+    "gulp": "~3.9.1",
+    "browserify": "~13.0.0",
+    "react": "~15.0.1",
+    "react-dom": "~15.0.1",
+    "jquery": "^2.2.4",
+    "vinyl-source-stream": "^1.1.0",
+    "reactify": "^1.1.1"
   }
 }
